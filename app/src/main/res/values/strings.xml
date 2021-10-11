@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ryuryu Phoninfo</string>
+    <string name="devicename">Device Name</string>
+    <string name="ip">IP address</string>
+    <string name="mac">MAC address</string>
+    <string name="manu">Manufacturer</string>
+    <string name="brand">Brand</string>
+    <string name="phy" translatable="false">Hardware</string>
+    <string name="author">Made by Ogan Özkul aka Ryuguu - Chan</string>
+</resources>
